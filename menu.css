@@ -1,0 +1,10 @@
+.container1{background-color: rgb(2, 2, 31);text-align: center;margin: 1rem;border: solid maroon;}
+.item1{margin: 1rem;font-family: 'Anton', sans-serif;font-size: 24pt;}
+#header{margin: 1rem; padding: 1rem;background-color: rgb(2, 2, 32);font-family: arial, helvetica, sans-serif;display: flex;justify-content: space-evenly;border: solid maroon;font-family: 'Anton', sans-serif;font-size: 24pt;}
+.nav li a{color: oldlace;background-color:  rgb(2, 2, 32);text-decoration-thickness: 1rem ;padding: 10x 15px;text-decoration: none;}
+#header1{color:beige ;margin: 1rem; padding: 1rem;background-color: rgb(122, 21, 18);font-family: arial, helvetica, sans-serif;display: flex;justify-content: space-evenly;text-align: center; border: solid maroon;font-family: 'Barlow Semi Condensed', sans-serif;font-size: 14pt;}
+.item3{text-align: center;}
+.nav a:hover{color: skyblue;font-family: 'Russo One', sans-serif;}
+i{color: aliceblue;margin: 0 0.5rem;}
+#imagen{border: solid rgb(2, 2, 37);}
+.item3{border: solid 1rem rgb(1, 1, 56)4, 4, 68);}

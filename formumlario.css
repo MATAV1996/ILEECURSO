@@ -1,0 +1,52 @@
+*{ /*sirve para dar margen a toda la página web*/
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url(https://www.ecestaticos.com/image/clipping/0335b7cac3114a269f3366b6936045d9/los-terminos-en-ingles-que-debes-saber-si-no-quieres-tener-problemas.jpg);
+}
+form{
+    background-color: #3f0404; /*para dar color al formulario*/
+    width: 450px; /*paradar acho al formulario*/
+    border: 5px;
+    border-radius: 3px; /*define los radios del borde*/
+    border-radius: 3px;
+    border-radius: 3px;
+    box-shadow:inset 0 0 1px #2c0000 ;/*para poner la sombra*/
+    margin: 2% 30% ;
+    padding: 1rem;
+    border: solid;
+}
+h1{
+    text-align: center;/* para centrar el texto formulario*/ 
+    color: rgb(255, 255, 255);
+    font-weight:normal; /*para quitar la negrita*/
+    font-size: 35px;
+    margin: 20px , 20px;
+    font-family: sans-serif
+}
+form input{
+    width: 280px; /*Especifica el ancho del área de contenido, el área de relleno o el área del borde*/
+    height: 35px;
+    padding: 0px 7px;/*de arriba abajo no tiene espaciado pero de los lados si*/
+    margin: 1% 5%; /*para dar al margen un espaciado*/
+    color: #000000; /*para dar color a los input*/
+    text-align: center; /*para centrar el texto del input*/
+    background-position: center;
+    
+}
+form button{
+    width: 50%; /* Especifica el ancho del área de contenido*/
+    margin: 0% 20%;/* margen arriba de 20, a la derecha de 0, abajo de 30 y a la izquierda 30*/
+    height: 50px;/*Especifica la altura del área de contenido del boton*/
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#1e5799+20,2989d8+50,1e5799+80&0+0,0.8+15,1+37,1+50,1+54,1+71,0.8+83,0+100 */
+}
+p{font-size: small;margin: 15px;}
+i{color: #000000;}
+table{background-color: rgb(0, 0, 0); border-collapse: collapse;text-align: center;}
+th,td{padding: 10px;color: lavender;}
+thead{border-bottom: solid 10px;color: rgb(28, 60, 240);background-color: rgb(38, 112, 15);}
+.container5{border-color:white;border: solid 5px;width: 50%;background-color: rgb(255, 255, 255);padding: 1rem;text-align: center;margin: 5px 300px;}
+.container4{border-color:white;border: solid 5px;background-color: rgb(0, 0, 0);color: rgb(255, 255, 255);text-align: left;margin: 10px 460px;width: 30%;padding: 1rem;}
+h5{color: rgb(255, 255, 255);}
+.nav a:hover{color: skyblue;font-family: 'Russo One', sans-serif;}
